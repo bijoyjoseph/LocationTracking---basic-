@@ -160,5 +160,6 @@
     <orderEntry type="library" scope="TEST" name="Gradle: net.sf.kxml:kxml2:2.3.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:viewpager-28.0.0-alpha3" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:swiperefreshlayout-28.0.0-alpha3" level="project" />
+    <orderEntry type="library" name="Gradle: _media_xyz_X_Android_sdk_platforms_android_28_android_jar-android-28" level="project" />
   </component>
 </module>

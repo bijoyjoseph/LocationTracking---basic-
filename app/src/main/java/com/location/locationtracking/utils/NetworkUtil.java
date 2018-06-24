@@ -20,7 +20,7 @@ public class NetworkUtil {
 
     private final String TAG = "NetworkUtil";
 
-    private static final String UPDATE_LOCATION = "https://nitsbirco7.execute-api.ap-south-1.amazonaws.com/latest/";
+    private static final String UPDATE_LOCATION = "location tracking uri";
 
     private Context superContext;
     private MediaType JSON;
